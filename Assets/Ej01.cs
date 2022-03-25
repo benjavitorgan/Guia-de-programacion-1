@@ -15,7 +15,7 @@ public class Ej01 : MonoBehaviour
         num1 += 2;
         Debug.Log("Num 1 vale " + num1);
 
-        Debug.Log(num1 * num1);
+        Debug.Log("Multiplicado por si mismo= " + num1 * num1);
     }
 
     // Update is called once per frame
